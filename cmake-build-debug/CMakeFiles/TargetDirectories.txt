@@ -1,0 +1,3 @@
+C:/Users/alext/Desktop/UBB mate-info/Semestrul 2/Structuri de date/ProiectSDA/cmake-build-debug/CMakeFiles/ProiectSDA.dir
+C:/Users/alext/Desktop/UBB mate-info/Semestrul 2/Structuri de date/ProiectSDA/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/alext/Desktop/UBB mate-info/Semestrul 2/Structuri de date/ProiectSDA/cmake-build-debug/CMakeFiles/rebuild_cache.dir
